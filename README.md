@@ -13,7 +13,11 @@ Scikit-learn
 The steps involved in the project are as follows:
 
 Load the dataset and split it into training and test sets.
+
 Preprocess the text data using techniques such as stemming.
+
 Train a logistic regression model on the training set.
+
 Evaluate the model on the test set.
+
 The model achieved an accuracy of 97.5% on the test set. This means that the model was able to correctly predict whether a news article was fake or real 97.5% of the time.
